@@ -1,0 +1,17 @@
+.title {
+  text-align: center;
+  color: red;
+}
+img {
+  width: 200px;
+  height: 100px;
+    margin: 2%;
+  padding: 2%;
+}
+.column{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2%;
+  padding: 2%;
+  }
